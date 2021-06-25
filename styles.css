@@ -1,0 +1,36 @@
+body{
+  width: 320px
+  }
+
+li{
+  list-style:none;
+}
+
+ul{
+  margin: 2px;
+  padding:5px;
+}
+span{
+  font-weight: bold;
+  text-align: left;
+}
+
+p{
+  padding:5px;
+}
+
+.container{
+  padding: 5px;
+  margin:5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 5px;
+  border-style: ridge;
+  background-color: #aaaaaa
+}
+
+.fact{
+  font-style: italic;
+  margin: 5px;
+}
